@@ -7,8 +7,8 @@
 ## Build Commands
 To build the application please execute the following command
 ```
-$ cd role-playing-game
-$ gradle build
+$ cd game-world
+$ gradlew build
 ```
 
 ## Run Commands
