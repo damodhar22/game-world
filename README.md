@@ -2,7 +2,6 @@
 
 ## Software Requirements
 * jdk 1.8
-* gradle 4.5
 
 ## Build Commands
 To build the application please execute the following command
