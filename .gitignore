@@ -6,7 +6,6 @@ hs_err_pid*
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
 *.zip
