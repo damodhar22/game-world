@@ -14,5 +14,5 @@ $ gradlew build
 ## Run Commands
 After the application is built please run the following command to launch the game
 ```
-$ java -jar ./build/libs/game-wworld-SNAPSHOT.jar
+$ java -jar ./build/libs/game-world-0.0.1-SNAPSHOT.jar
 ```
