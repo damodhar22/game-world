@@ -7,6 +7,7 @@
 ## Build Commands
 To build the application please execute the following command
 ```
+$ git clone https://github.com/damodhar22/game-world.git
 $ cd game-world
 $ gradlew build
 ```
