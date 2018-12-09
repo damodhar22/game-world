@@ -5,6 +5,7 @@ hs_err_pid*
 *.7z
 *.dmg
 *.gz
+*.jar
 *.iso
 *.rar
 *.tar
@@ -16,9 +17,12 @@ hs_err_pid*
 
 # Gradle
 .gradle
+gradle
 build/
 target/
 gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
 
 # IntelliJ project files
 *.iml
